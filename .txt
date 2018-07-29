@@ -1,0 +1,1747 @@
+[1] = {
+	["children"] = {
+	},
+	["self"] = {
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "2495713644",
+		["Description"] = "add parts to me!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0.50268614292145, 5.503870010376, -176.88339233398),
+								["UniqueID"] = "2859609466",
+								["Position"] = Vector(13.10791015625, -0.6201171875, 3.6710357666016),
+								["Bone"] = "right hand",
+								["Model"] = "models/weapons/w_snip_awp.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "weapon_crossbow@@1",
+						["Invert"] = true,
+						["UniqueID"] = "285062970",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "4146621486",
+				["Name"] = "cross bow",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(14.494140625, -0.6884765625, -4.70263671875),
+								["Angles"] = Angle(-89.202018737793, -0.0010431170230731, 0.00039943048614077),
+								["UniqueID"] = "303301588",
+								["Size"] = 0.075,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(0.5, 0.5, 1),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(5.1279296875, -0.6748046875, -4.10693359375),
+								["Angles"] = Angle(-89.202018737793, -0.0010431170230731, 0.00039943048614077),
+								["UniqueID"] = "3393523735",
+								["Size"] = 0.463,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/panel_leverHandle001a.mdl",
+								["Scale"] = Vector(0.80000001192093, 1.1000000238419, 1.7000000476837),
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(12.1591796875, -0.61669921875, -4.73486328125),
+								["Angles"] = Angle(88.847938537598, -179.99945068359, -179.99891662598),
+								["UniqueID"] = "1089704025",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x05.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 1),
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(3.80419921875, -1.0066528320313, -2.2041015625),
+								["Angles"] = Angle(-36.084548950195, 0.13571298122406, 90.655784606934),
+								["UniqueID"] = "2121263737",
+								["Size"] = 0.463,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_c17/TrapPropeller_Lever.mdl",
+								["Scale"] = Vector(3.2999999523163, 1.1000000238419, 1.7000000476837),
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(13.4990234375, -0.61328125, -4.75048828125),
+								["Angles"] = Angle(88.847938537598, -179.99945068359, -179.99891662598),
+								["UniqueID"] = "2336558459",
+								["Size"] = 0.02,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x05.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 1),
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(4.3203125, -0.66552734375, -3.298828125),
+								["Angles"] = Angle(-44.601253509521, -0.00066160468850285, 0.00010996143828379),
+								["UniqueID"] = "1823628964",
+								["Size"] = 0.463,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/panel_leverHandle001a.mdl",
+								["Scale"] = Vector(1.2999999523163, 1.1000000238419, 1.7000000476837),
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(11.1064453125, -0.634765625, -4.86572265625),
+								["Angles"] = Angle(88.847938537598, -179.99945068359, -179.99891662598),
+								["UniqueID"] = "2483847197",
+								["Size"] = 0.03,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x05.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 1),
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(8.5595703125, -0.658203125, -4.16943359375),
+								["Angles"] = Angle(88.847938537598, -179.99945068359, -179.99891662598),
+								["UniqueID"] = "1425345859",
+								["Size"] = 0.038,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/misc/shell2x2a.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 1),
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(10.1005859375, -0.64990234375, -4.79150390625),
+								["Angles"] = Angle(88.847938537598, -179.99945068359, -179.99891662598),
+								["UniqueID"] = "232678185",
+								["Size"] = 0.038,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x05.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 1),
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(5.1279296875, -0.6748046875, -4.10693359375),
+								["Angles"] = Angle(-89.202018737793, -0.0010431170230731, 0.00039943048614077),
+								["UniqueID"] = "185449915",
+								["Size"] = 0.038,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/misc/shell2x2a.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 1),
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(11.087890625, -0.6845703125, -4.66845703125),
+								["Angles"] = Angle(-89.202018737793, -0.0010431170230731, 0.00039943048614077),
+								["UniqueID"] = "826706474",
+								["Size"] = 0.075,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(0.5, 0.5, 1),
+							},
+						},
+						[12] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(15.1572265625, -0.59619140625, -4.763671875),
+								["Angles"] = Angle(88.847938537598, -179.99945068359, -179.99891662598),
+								["UniqueID"] = "2654108377",
+								["Size"] = 0.01,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x05.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 1),
+							},
+						},
+						[13] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(14.57421875, -0.60986328125, -4.7685546875),
+								["Angles"] = Angle(88.847938537598, -179.99945068359, -179.99891662598),
+								["UniqueID"] = "2992586192",
+								["Size"] = 0.015,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x05.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 1),
+							},
+						},
+						[14] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(8.6611328125, -0.6787109375, -4.1572265625),
+								["Angles"] = Angle(-89.202018737793, -0.0010431170230731, 0.00039943048614077),
+								["UniqueID"] = "2621443058",
+								["Size"] = 0.075,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 1),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "4059482389",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["Arguments"] = "gmod_tool@@1",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1304718023",
+				["Name"] = "Tool Gun",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.75341796875, 2.4697265625, -1.4306640625),
+										["Angles"] = Angle(86.873207092285, 137.96829223633, -133.61054992676),
+										["UniqueID"] = "45606817",
+										["Size"] = 0.1,
+										["ClassName"] = "model",
+										["Bone"] = "right hand",
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["Scale"] = Vector(0.80000001192093, 0.079999998211861, 0.30000001192093),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-1.60009765625, 1.55712890625, 0.615234375),
+										["Angles"] = Angle(86.873207092285, 137.96829223633, -179.99368286133),
+										["UniqueID"] = "3473274954",
+										["Size"] = 0.1,
+										["ClassName"] = "model",
+										["Bone"] = "right hand",
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["Scale"] = Vector(1.1000000238419, 0.47999998927116, 0.30000001192093),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-1.220703125, 1.22900390625, -3.3935546875),
+										["Angles"] = Angle(3.6731531620026, -42.03657913208, -0.00014030709280632),
+										["UniqueID"] = "3473274954",
+										["Size"] = 0.1,
+										["ClassName"] = "model",
+										["Bone"] = "right hand",
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["Scale"] = Vector(0.30000001192093, 0.47999998927116, 0.30000001192093),
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.2197265625, 0.330078125, -3.1240234375),
+										["Angles"] = Angle(-25.411346435547, -42.036571502686, -0.00010964593820972),
+										["UniqueID"] = "3473274954",
+										["Size"] = 0.1,
+										["ClassName"] = "model",
+										["Bone"] = "right hand",
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["Scale"] = Vector(0.30000001192093, 0.47999998927116, 0.30000001192093),
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.50244140625, 2.2373046875, 5.056640625),
+										["Angles"] = Angle(86.873207092285, 137.96829223633, -133.61054992676),
+										["UniqueID"] = "3473274954",
+										["Size"] = 0.1,
+										["ClassName"] = "model",
+										["Bone"] = "right hand",
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["Scale"] = Vector(0.80000001192093, 0.079999998211861, 0.30000001192093),
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-1.73681640625, 1.6748046875, -2.6787109375),
+										["Angles"] = Angle(86.873207092285, 137.96829223633, -179.99368286133),
+										["UniqueID"] = "3473274954",
+										["Size"] = 0.1,
+										["ClassName"] = "model",
+										["Bone"] = "right hand",
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["Scale"] = Vector(0.30000001192093, 0.47999998927116, 0.30000001192093),
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-1.41650390625, 1.4013671875, 5.0478515625),
+										["Angles"] = Angle(86.873207092285, 137.96829223633, -179.99368286133),
+										["UniqueID"] = "3473274954",
+										["Size"] = 0.1,
+										["ClassName"] = "model",
+										["Bone"] = "right hand",
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["Scale"] = Vector(0.80000001192093, 0.47999998927116, 0.30000001192093),
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.64501953125, 2.375, 1.2666015625),
+										["Angles"] = Angle(86.873207092285, 137.96829223633, -133.61054992676),
+										["UniqueID"] = "3473274954",
+										["Size"] = 0.1,
+										["ClassName"] = "model",
+										["Bone"] = "right hand",
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["Scale"] = Vector(0.80000001192093, 0.079999998211861, 0.30000001192093),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1972719966",
+								["Scale"] = Vector(0.40000000596046, 0.40000000596046, 0.60000002384186),
+								["Angles"] = Angle(-38.386775970459, 87.137069702148, -85.131996154785),
+								["Size"] = 0.1,
+								["ClassName"] = "model",
+								["Position"] = Vector(8.1884765625, -2.125, -2.913818359375),
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/triangles/1x1x2carved025.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "weapon_pistol@@0",
+						["Invert"] = true,
+						["UniqueID"] = "2142671285",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "Pistol",
+				["ClassName"] = "group",
+				["UniqueID"] = "1547815828",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(10.71364402771, -2.1235554218292, -176.51440429688),
+								["UniqueID"] = "4279822069",
+								["Position"] = Vector(13.2060546875, -2.345703125, 1.4970703125),
+								["Bone"] = "right hand",
+								["Model"] = "models/weapons/w_rif_m4a1_silencer.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "weapon_ar2@@1",
+						["Invert"] = true,
+						["UniqueID"] = "3009845716",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3326682893",
+				["Name"] = "ar2",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.7778898477554, -81.28303527832, -0.15846687555313),
+								["UniqueID"] = "476957544",
+								["Position"] = Vector(23.3818359375, 3.435546875, -5.09130859375),
+								["Size"] = 0.075,
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel01a.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(88.875534057617, -134.0085144043, -144.72946166992),
+								["UniqueID"] = "1841885772",
+								["Position"] = Vector(21.46875, 3.095703125, -5.119140625),
+								["Size"] = 0.1,
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0.86133980751038, 10.716493606567, -0.64928132295609),
+								["UniqueID"] = "611453628",
+								["Position"] = Vector(6.58203125, 0.1201171875, -6.4866943359375),
+								["Size"] = 0.4,
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/light_spotlight01_lamp.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1007974409",
+								["Scale"] = Vector(1, 1, 1.7000000476837),
+								["Angles"] = Angle(36.058868408203, -169.89410400391, 8.2321290969849),
+								["Size"] = 0.325,
+								["Position"] = Vector(6.2149658203125, -0.64501953125, -1.9267578125),
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/panel_leverhandle001a.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Frequency"] = 1.4,
+										["Bend"] = -2.6,
+										["Angles"] = Angle(-6.0979557037354, 112.60395050049, 81.038032531738),
+										["EndPointUID"] = "222478904",
+										["UniqueID"] = "2670537972",
+										["ClassName"] = "beam",
+										["Material"] = "cable/Cable",
+										["Resolution"] = 14.8,
+										["Position"] = Vector(3.197265625, -8.0405883789063, 0.271484375),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(8.1044921875, 5.5077514648438, -1.525146484375),
+										["Bend"] = 10.6,
+										["Material"] = "cable/cable",
+										["EndPointUID"] = "2320403028",
+										["UniqueID"] = "2112983257",
+										["Angles"] = Angle(-18.334409713745, 92.110969543457, 14.735585212708),
+										["Bone"] = "static prop",
+										["ClassName"] = "beam",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(6.9150390625, -5.88623046875, -3.7426147460938),
+								["Angles"] = Angle(7.4377059936523, -174.97618103027, 76.682800292969),
+								["UniqueID"] = "293566708",
+								["EditorExpand"] = true,
+								["ClassName"] = "model",
+								["Bone"] = "spine 1",
+								["Model"] = "models/props_wasteland/controlroom_filecabinet001a.mdl",
+								["Scale"] = Vector(1, 0.89999997615814, 0.30000001192093),
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.7778898477554, -81.28303527832, -0.15846687555313),
+								["UniqueID"] = "1184180189",
+								["Position"] = Vector(15.8369140625, 1.775390625, -5.0573120117188),
+								["Size"] = 0.125,
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel01a.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[7] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Size"] = 0,
+										["Position"] = Vector(-3.1416015625, 0.0029296875, -15.639038085938),
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "222478904",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2320403028",
+								["Scale"] = Vector(1, 1, 2.7000000476837),
+								["Angles"] = Angle(88.875534057617, -134.0085144043, -144.72946166992),
+								["Size"] = 0.1,
+								["ClassName"] = "model",
+								["Position"] = Vector(9.9572143554688, 0.92041015625, -4.9443359375),
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/buoy01.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.7778898477554, -81.28303527832, -0.15846687555313),
+								["UniqueID"] = "2194369660",
+								["Position"] = Vector(12.09130859375, 1.2294921875, -5.048828125),
+								["Size"] = 0.125,
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel01a.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(9.0400390625, 0.662109375, -4.9195556640625),
+								["Angles"] = Angle(88.875534057617, -134.0085144043, -144.72946166992),
+								["UniqueID"] = "1699307977",
+								["Size"] = 0.1,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(1, 1, 2.7000000476837),
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(36.058902740479, -169.89404296875, -5.7342782020569),
+								["UniqueID"] = "1824436990",
+								["ClassName"] = "model",
+								["Position"] = Vector(7.5244140625, -5.379150390625, -3.51171875),
+								["Bone"] = "right hand",
+								["Model"] = "models/props_c17/TrapPropeller_Lever.mdl",
+								["Material"] = "models/debug/debugwhite",
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.7778898477554, -81.28303527832, -0.15846687555313),
+								["UniqueID"] = "3242637007",
+								["Position"] = Vector(19.27490234375, 2.2724609375, -5.0651245117188),
+								["Size"] = 0.1,
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel01a.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "2943146889",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["Arguments"] = "weapon_physcannon@@1",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "gravity gun",
+				["ClassName"] = "group",
+				["UniqueID"] = "4178382609",
+				["EditorExpand"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(18.6669921875, 2.2197265625, -5.7304077148438),
+								["Angles"] = Angle(-32.045932769775, -77.375213623047, -6.8555164337158),
+								["UniqueID"] = "1824209127",
+								["Size"] = 0.11,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel02b.mdl",
+								["Scale"] = Vector(1, 0.10000000149012, 1),
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-80.408065795898, 179.99980163574, -179.99984741211),
+										["ClassName"] = "clip",
+										["UniqueID"] = "3545926966",
+										["Position"] = Vector(1.089111328125, -0.009765625, -6.447265625),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3769015101",
+								["Scale"] = Vector(1, 1, 2.9000000953674),
+								["Angles"] = Angle(27.6240234375, -88.861282348633, -111.74723052979),
+								["EditorExpand"] = true,
+								["Size"] = 0.15,
+								["PositionOffset"] = Vector(0, 0, -0.69999998807907),
+								["Position"] = Vector(5.87109375, 0.1875, -2.068359375),
+								["Bone"] = "right hand",
+								["Model"] = "models/props_trainstation/trashcan_indoor001a.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(20.9794921875, 2.9580078125, -4.9881896972656),
+								["Angles"] = Angle(-29.177791595459, 97.92115020752, -85.620765686035),
+								["UniqueID"] = "1467989172",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x16.mdl",
+								["Scale"] = Vector(1.7999999523163, 1.7999999523163, 0.30000001192093),
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(32.8515625, 5.4453125, -6.1456604003906),
+								["Angles"] = Angle(-73.153938293457, -59.670337677002, -18.918647766113),
+								["UniqueID"] = "1015210977",
+								["Size"] = 0.02,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel03a.mdl",
+								["Scale"] = Vector(1, 0.30000001192093, 1),
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "effect",
+										["Position"] = Vector(8.2958984375, 0.021484375, -0.001251220703125),
+										["Rate"] = 0.32,
+										["Effect"] = "vortigaunt_charge_token_c",
+										["UniqueID"] = "3265022248",
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(17.873046875, 2.6083984375, -3.4920043945313),
+								["Angles"] = Angle(5.1653084754944, 0.11000679433346, 1.2212907075882),
+								["UniqueID"] = "229468119",
+								["Size"] = 0,
+								["EditorExpand"] = true,
+								["Bone"] = "right hand",
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(20.9794921875, 2.9580078125, -4.9881896972656),
+								["Angles"] = Angle(-29.177791595459, 97.92115020752, -85.620765686035),
+								["UniqueID"] = "3131298451",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x16.mdl",
+								["Scale"] = Vector(1.3999999761581, 1.3999999761581, 0.60000002384186),
+							},
+						},
+						[7] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "model",
+												["UniqueID"] = "2381495533",
+												["Model"] = "models/pac/default.mdl",
+												["Size"] = -0.275,
+												["Bone"] = "invalidbone",
+												["Name"] = "gay",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(55.850505828857, -84.713806152344, 62.006950378418),
+										["Position"] = Vector(1.5787353515625, 0.717529296875, -0.16015625),
+										["ClassName"] = "model",
+										["Size"] = 0.05,
+										["EditorExpand"] = true,
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "2234453674",
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(10.09765625, 1.1796875, -6.4274291992188),
+								["Angles"] = Angle(5.6880369186401, 9.7397212982178, 0.75869965553284),
+								["UniqueID"] = "2164011918",
+								["Size"] = 0.55,
+								["EditorExpand"] = true,
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/light_spotlight01_lamp.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(31.74609375, 5.212890625, -6.0383605957031),
+								["Angles"] = Angle(-73.153938293457, -59.670337677002, -18.918647766113),
+								["UniqueID"] = "2083695851",
+								["Size"] = 0.03,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel03a.mdl",
+								["Scale"] = Vector(1, 0.30000001192093, 1),
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(22.572265625, 3.119140625, -5.1009826660156),
+								["Angles"] = Angle(-9.7014150619507, -78.569915771484, -6.0185704231262),
+								["UniqueID"] = "2094562994",
+								["Size"] = 0.05,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel03a.mdl",
+								["Scale"] = Vector(1, 0.30000001192093, 1),
+							},
+						},
+						[10] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "3896578571",
+										["Model"] = "models/pac/default.mdl",
+										["Size"] = 0,
+										["Position"] = Vector(-0.001953125, -0.000244140625, 7.65380859375),
+										["Name"] = "gay 2",
+										["Angles"] = Angle(-4.2688687244663e-005, -59.958675384521, 2.3905662601464e-005),
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(8.68212890625, 2.4281005859375, -2.240234375),
+								["Angles"] = Angle(60.680408477783, 97.531173706055, 1.8488165140152),
+								["UniqueID"] = "2414901432",
+								["EditorExpand"] = true,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_junk/propane_tank001a.mdl",
+								["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.5),
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(16.94921875, 1.904296875, -5.5025939941406),
+								["Angles"] = Angle(-46.981925964355, -74.421340942383, -9.0964946746826),
+								["UniqueID"] = "283286001",
+								["Size"] = 0.16,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel02a.mdl",
+								["Scale"] = Vector(0.5, 0.10000000149012, 0.5),
+							},
+						},
+						[12] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Position"] = Vector(0.00390625, -0.001953125, 8.39111328125),
+										["Model"] = "models/pac/default.mdl",
+										["Size"] = 0,
+										["Name"] = "gay",
+										["UniqueID"] = "4070409685",
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(9.04931640625, -2.506103515625, -5.0234375),
+								["Angles"] = Angle(60.680477142334, 97.531257629395, -177.18341064453),
+								["UniqueID"] = "890642021",
+								["EditorExpand"] = true,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_junk/propane_tank001a.mdl",
+								["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.5),
+							},
+						},
+						[13] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(16.5322265625, 2.1630859375, -4.6858520507813),
+								["Angles"] = Angle(-29.177791595459, 97.92115020752, -85.620765686035),
+								["UniqueID"] = "3627370876",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x16.mdl",
+								["Scale"] = Vector(1.7999999523163, 1.7999999523163, 0.30000001192093),
+							},
+						},
+						[14] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(29.142578125, 4.6494140625, -5.7864074707031),
+								["Angles"] = Angle(-41.43563079834, -73.052558898926, -7.1999316215515),
+								["UniqueID"] = "1880159165",
+								["Size"] = 0.04,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel03a.mdl",
+								["Scale"] = Vector(1, 0.30000001192093, 1),
+							},
+						},
+						[15] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(8.9072265625, 0.0390625, -3.5910949707031),
+								["Angles"] = Angle(-2.314460515976, 4.1111764907837, -60.670948028564),
+								["UniqueID"] = "1749715533",
+								["Size"] = 0.9,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_junk/metal_paintcan001a.mdl",
+								["Scale"] = Vector(0.80000001192093, 0.80000001192093, 1),
+							},
+						},
+						[16] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0.80039691925049, 14.552008628845, 164.45112609863),
+								["UniqueID"] = "1736015679",
+								["Position"] = Vector(7.876953125, -5.496826171875, -5.2060546875),
+								["Bone"] = "right hand",
+								["Model"] = "models/props_c17/TrapPropeller_Lever.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[17] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(30.400390625, 4.92578125, -5.9083557128906),
+								["Angles"] = Angle(-73.153938293457, -59.670337677002, -18.918647766113),
+								["UniqueID"] = "2373602119",
+								["Size"] = 0.035,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel03a.mdl",
+								["Scale"] = Vector(1, 0.30000001192093, 1),
+							},
+						},
+						[18] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(26.50390625, 4.0634765625, -5.5308532714844),
+								["Angles"] = Angle(-51.192920684814, -71.092140197754, -8.6227598190308),
+								["UniqueID"] = "2435541261",
+								["Size"] = 0.05,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel03a.mdl",
+								["Scale"] = Vector(1, 0.30000001192093, 1),
+							},
+						},
+						[19] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(28.060546875, 4.4052734375, -5.681396484375),
+								["Angles"] = Angle(-27.924703598022, -74.964195251465, -6.1045837402344),
+								["UniqueID"] = "1980879712",
+								["Size"] = 0.045,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel03a.mdl",
+								["Scale"] = Vector(1, 0.30000001192093, 1),
+							},
+						},
+						[20] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(15.04296875, 1.578125, -5.2541809082031),
+								["Angles"] = Angle(-60.231517791748, -73.469734191895, -9.6817960739136),
+								["UniqueID"] = "682872851",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel02a.mdl",
+								["Scale"] = Vector(0.69999998807907, 0.10000000149012, 0.69999998807907),
+							},
+						},
+						[21] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(20.9794921875, 2.9580078125, -4.9881896972656),
+								["Angles"] = Angle(-29.177791595459, 97.92115020752, -85.620765686035),
+								["UniqueID"] = "1036048407",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x16.mdl",
+								["Scale"] = Vector(1.6000000238419, 1.6000000238419, 0.40000000596046),
+							},
+						},
+						[22] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(24.81640625, 3.689453125, -5.3670043945313),
+								["Angles"] = Angle(-27.321409225464, -76.00170135498, -6.1039538383484),
+								["UniqueID"] = "710435932",
+								["Size"] = 0.05,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel03a.mdl",
+								["Scale"] = Vector(1, 0.30000001192093, 1),
+							},
+						},
+						[23] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_combine/combine_interface_disp",
+										["UniqueID"] = "1223959521",
+										["Size"] = 0.1,
+										["Angles"] = Angle(89.902374267578, 0.018038891255856, 0.018289351835847),
+										["Position"] = Vector(0.0087890625, -0.9404296875, -0.001708984375),
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["Scale"] = Vector(0.69999998807907, 1.5, 1.2000000476837),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EndPointName"] = "gay",
+										["UseEndpointOffsets"] = true,
+										["Bend"] = 10.3,
+										["UniqueID"] = "208151110",
+										["ClassName"] = "beam",
+										["EndPointUID"] = "2381495533",
+										["EditorExpand"] = true,
+										["Angles"] = Angle(13.106674194336, -105.88787078857, -161.94432067871),
+										["Material"] = "cable/cable",
+										["Resolution"] = 15.2,
+										["Position"] = Vector(0.00390625, -0.000732421875, -0.8369140625),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2192724373",
+								["Scale"] = Vector(0.20000000298023, 1, 0.60000002384186),
+								["Angles"] = Angle(29.479787826538, 163.83726501465, 146.78512573242),
+								["Size"] = 0.525,
+								["ClassName"] = "model",
+								["Position"] = Vector(5.5078125, 2.6884765625, -8.2887573242188),
+								["Bone"] = "right hand",
+								["Model"] = "models/props_c17/tv_monitor01.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[24] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(20.9794921875, 2.9580078125, -4.9881896972656),
+								["Angles"] = Angle(-29.177791595459, 97.92115020752, -85.620765686035),
+								["UniqueID"] = "1544778515",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x16.mdl",
+								["Scale"] = Vector(0.80000001192093, 0.80000001192093, 1),
+							},
+						},
+						[25] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(15.8720703125, 2.1435546875, -4.6400451660156),
+								["Angles"] = Angle(-29.177791595459, 97.92115020752, -85.620765686035),
+								["UniqueID"] = "1125320063",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x16.mdl",
+								["Scale"] = Vector(2, 2, 0.10000000149012),
+							},
+						},
+						[26] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(20.4462890625, 2.6728515625, -5.2320861816406),
+								["Angles"] = Angle(-10.029259681702, -79.167427062988, -5.2148303985596),
+								["UniqueID"] = "1285334299",
+								["Size"] = 0.1,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/wheel02b.mdl",
+								["Scale"] = Vector(1, 0.10000000149012, 1),
+							},
+						},
+						[27] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(20.9794921875, 2.9580078125, -4.9881896972656),
+								["Angles"] = Angle(-29.177791595459, 97.92115020752, -85.620765686035),
+								["UniqueID"] = "2714018227",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x16.mdl",
+								["Scale"] = Vector(1.2000000476837, 1.2000000476837, 0.80000001192093),
+							},
+						},
+						[28] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(20.9794921875, 2.9580078125, -4.9881896972656),
+								["Angles"] = Angle(-29.177791595459, 97.92115020752, -85.620765686035),
+								["UniqueID"] = "2899989795",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x16.mdl",
+								["Scale"] = Vector(1, 1, 0.89999997615814),
+							},
+						},
+						[29] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "clip",
+										["UniqueID"] = "2706698507",
+										["Angles"] = Angle(-71.301612854004, 151.31707763672, 30.009950637817),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "572383991",
+								["Scale"] = Vector(0.30000001192093, 0.30000001192093, 2.2999999523163),
+								["Angles"] = Angle(28.962833404541, -84.86003112793, -95.730743408203),
+								["Size"] = 0.1,
+								["ClassName"] = "model",
+								["Position"] = Vector(15.927734375, 2.525390625, -4.4398803710938),
+								["Bone"] = "right hand",
+								["Model"] = "models/props_wasteland/buoy01.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[30] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(20.9794921875, 2.9580078125, -4.9881896972656),
+								["Angles"] = Angle(-29.177791595459, 97.92115020752, -85.620765686035),
+								["UniqueID"] = "1523760804",
+								["Size"] = 0.025,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube4x4x16.mdl",
+								["Scale"] = Vector(0.80000001192093, 0.80000001192093, 1),
+							},
+						},
+						[31] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EndPointName"] = "gay 2",
+										["ClassName"] = "beam",
+										["Position"] = Vector(-10.138671875, 0.0009765625, -1.1044921875),
+										["UniqueID"] = "2041986527",
+										["Bend"] = -16.1,
+										["EndPointUID"] = "3896578571",
+										["Angles"] = Angle(-35.102806091309, -3.9655962609686e-005, -0.00015444953169208),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(2.454958303133e-005, 2.0593860149384, 89.894248962402),
+										["Position"] = Vector(-5.7421875, 1.1224365234375, 0.06982421875),
+										["ClassName"] = "model",
+										["UniqueID"] = "457588035",
+										["Model"] = "models/props_c17/FurnitureShelf002a.mdl",
+										["Scale"] = Vector(0.69999998807907, 0.40000000596046, 0.69999998807907),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0.14176806807518, -177.94096374512, -89.894233703613),
+										["Position"] = Vector(4.875, 0.5958251953125, 0.0458984375),
+										["ClassName"] = "model",
+										["UniqueID"] = "2576573194",
+										["Model"] = "models/props_c17/FurnitureShelf002a.mdl",
+										["Scale"] = Vector(0.69999998807907, 0.40000000596046, 0.60000002384186),
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EndPointName"] = "gay",
+										["ClassName"] = "beam",
+										["Position"] = Vector(-9.7939453125, -0.0009765625, -0.0008544921875),
+										["UniqueID"] = "1831614819",
+										["Bend"] = -13.5,
+										["EndPointUID"] = "4070409685",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Position"] = Vector(4.888671875, -3.65234375, -0.5498046875),
+								["UniqueID"] = "1389777793",
+								["EditorExpand"] = true,
+								["Bone"] = "spine 2",
+								["Model"] = "models/props_wasteland/controlroom_filecabinet001a.mdl",
+								["Scale"] = Vector(0.89999997615814, 0.30000001192093, 0.60000002384186),
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "weapon_physgun@@1",
+						["Invert"] = true,
+						["UniqueID"] = "1634603597",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2451335581",
+				["Name"] = "Phys gun",
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(12.327501296997, -0.67370569705963, 172.21412658691),
+								["UniqueID"] = "2196007847",
+								["Position"] = Vector(7.5859375, -0.23046875, 3.8003540039063),
+								["Bone"] = "right hand",
+								["Model"] = "models/weapons/w_smg_mp5.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "weapon_smg1@@1",
+						["Invert"] = true,
+						["UniqueID"] = "4256631686",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1143298770",
+				["Name"] = "Smg",
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(5.7845931053162, 4.150369644165, -1.9779140949249),
+								["UniqueID"] = "2056946013",
+								["Position"] = Vector(-1.16796875, -3.6644897460938, -48.1396484375),
+								["Bone"] = "right hand",
+								["Model"] = "models/weapons/w_spade.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "weapon_crowbar@@1",
+						["Invert"] = true,
+						["UniqueID"] = "1370155572",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2954089829",
+				["Name"] = "crowbar",
+			},
+		},
+		[9] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(5.5905585289001, -0.40219873189926, 175.87866210938),
+								["UniqueID"] = "2655822893",
+								["Position"] = Vector(14.15625, 0.142822265625, 2.0224609375),
+								["Bone"] = "right hand",
+								["Model"] = "models/weapons/w_shot_xm1014.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "weapon_shotgun@@1",
+						["Invert"] = true,
+						["UniqueID"] = "613959263",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "767996998",
+				["Name"] = "shotgun",
+			},
+		},
+		[10] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(19.389404296875, -1.5706787109375, -9.421875),
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "303243679",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(1.2999999523163, 1.3999999761581, 0.89999997615814),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "2496499070",
+								["Position"] = Vector(-18.625, -0.75128173828125, -1.470703125),
+								["Size"] = 0.125,
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(15.315185546875, -1.482666015625, -8.55078125),
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "2567259317",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(0.89999997615814, 0.89999997615814, 1.3999999761581),
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(-8.333740234375, -0.97320556640625, -3.66796875),
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "732295677",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(1, 1, 1.2999999523163),
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(17.734130859375, -1.5347900390625, -9.0732421875),
+								["Angles"] = Angle(-0.29751369357109, -91.171272277832, 78.472785949707),
+								["UniqueID"] = "650311703",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(1.5, 1.6000000238419, 0.5),
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(17.036865234375, -1.5198974609375, -8.9423828125),
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "141305472",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(1.2000000476837, 1.2000000476837, 0.89999997615814),
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(8.381591796875, -1.3218994140625, -4.95703125),
+								["Angles"] = Angle(-0.2975093126297, -91.171272277832, -12.553757667542),
+								["UniqueID"] = "1917369079",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(0.89999997615814, 0.80000001192093, 1.3999999761581),
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(7.098876953125, -1.3052368164063, -6.8603515625),
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "2356499926",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(0.89999997615814, 0.89999997615814, 1),
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(19.5048828125, -1.5728149414063, -9.4462890625),
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "1922021948",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(1.8999999761581, 1.8999999761581, 0.5),
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(-4.20703125, -1.0616455078125, -4.515625),
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "1174690028",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(0.89999997615814, 0.89999997615814, 0.69999998807907),
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.29748991131783, -91.171287536621, -14.247548103333),
+								["UniqueID"] = "3291268312",
+								["Position"] = Vector(-28.04541015625, -0.56390380859375, -2.4814453125),
+								["Size"] = 0.125,
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tubebend1x1x90.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[12] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(7.661376953125, -1.3176879882813, -6.9814453125),
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "246205480",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(1, 1, 0.10000000149012),
+							},
+						},
+						[13] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(-15.69921875, -0.81427001953125, -2.076171875),
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "3962982438",
+								["Size"] = 0.125,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["Scale"] = Vector(0.89999997615814, 0.89999997615814, 0.5),
+							},
+						},
+						[14] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(9.0107421875, -1.7374877929688, -0.3642578125),
+								["Angles"] = Angle(-76.506759643555, -23.113431930542, -68.672973632813),
+								["UniqueID"] = "95328184",
+								["Size"] = 0.175,
+								["ClassName"] = "model",
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/misc/platehole1x1d.mdl",
+								["Scale"] = Vector(1, 1.3999999761581, 1.1000000238419),
+							},
+						},
+						[15] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.29750892519951, -91.171272277832, 78.300651550293),
+								["UniqueID"] = "2639550735",
+								["Position"] = Vector(1.476318359375, -1.1842041015625, -5.703125),
+								["Size"] = 0.125,
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "1508727371",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["Arguments"] = "weapon_rpg@@1",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2760348961",
+				["Name"] = "RPG",
+			},
+		},
+		[11] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(12.930282592773, -7.3110275268555, -173.46441650391),
+								["UniqueID"] = "939673652",
+								["Position"] = Vector(2.36572265625, -1.712646484375, 2.92578125),
+								["Bone"] = "right hand",
+								["Model"] = "models/weapons/w_pist_deagle.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "weapon_357@@1",
+						["Invert"] = true,
+						["UniqueID"] = "3115247845",
+						["Event"] = "weapon_class",
+						["Operator"] = "equal",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1730918047",
+				["Name"] = "revolver",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1981603435",
+		["ClassName"] = "group",
+		["Name"] = "My load out",
+		["Description"] = "add parts to me!",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "sound",
+								["UniqueID"] = "1659234766",
+								["Pitch"] = 0.625,
+								["EditorExpand"] = true,
+								["Name"] = "dog footstep[1,4]",
+								["Sound"] = "npc/dog/dog_footstep[1,4].wav",
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["Invert"] = true,
+						["Name"] = "is ranger below 5?",
+						["ClassName"] = "event",
+						["UniqueID"] = "3181550699",
+						["RootOwner"] = false,
+						["EditorExpand"] = true,
+						["Operator"] = "below",
+						["Arguments"] = "5@@10",
+						["Event"] = "ranger",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3681250577",
+				["TintColor"] = Vector(0.63942295312881, 0.63942295312881, 0.63942295312881),
+				["Name"] = "left foot",
+				["Alpha"] = 0,
+				["Angles"] = Angle(0, 90, 0),
+				["EditorExpand"] = true,
+				["Bone"] = "left toe",
+				["ClassName"] = "model",
+				["Position"] = Vector(-30, 0, 0),
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "sound",
+								["UniqueID"] = "905788888",
+								["Pitch"] = 0.625,
+								["EditorExpand"] = true,
+								["Name"] = "dog footstep[1,4]",
+								["Sound"] = "npc/dog/dog_footstep[1,4].wav",
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["Invert"] = true,
+						["Name"] = "is ranger below 5?",
+						["ClassName"] = "event",
+						["UniqueID"] = "213354147",
+						["RootOwner"] = false,
+						["EditorExpand"] = true,
+						["Operator"] = "below",
+						["Arguments"] = "5@@10",
+						["Event"] = "ranger",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "103201093",
+				["TintColor"] = Vector(0.63942295312881, 0.63942295312881, 0.63942295312881),
+				["Name"] = "right foot",
+				["Alpha"] = 0,
+				["Angles"] = Angle(0, 90, 0),
+				["EditorExpand"] = true,
+				["Bone"] = "right toe",
+				["ClassName"] = "model",
+				["Position"] = Vector(-30, 0, 0),
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "realistic footsteps",
+		["ClassName"] = "group",
+		["UniqueID"] = "2980027574",
+		["Description"] = "add parts to me!",
+	},
+},
